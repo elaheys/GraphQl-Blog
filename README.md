@@ -2,6 +2,7 @@
 
 you can see my project live here:
 https://graphql-weblog-ell.netlify.app
+![Screenshot 2023-11-07 155933](https://github.com/elaheys/GraphQl-Blog/assets/112415062/e5c62bae-62c8-4882-9dd6-0ec4db30faf9)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
