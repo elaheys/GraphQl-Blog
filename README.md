@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+you can see my project live here:
+https://graphql-weblog-ell.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
